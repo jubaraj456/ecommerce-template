@@ -1,0 +1,16 @@
+.bg-color-primary{
+    background: rgb(180, 210, 220);
+}
+.bg-color-secondary{
+    background: rgb(248, 246, 244);
+}
+.product-item{
+    overflow: hidden;
+}
+.product-item img{
+    cursor: pointer;
+    transition: 1s linear;
+}
+.product-item img:hover{
+    transform: scale(1.5);
+}
